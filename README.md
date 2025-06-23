@@ -8,7 +8,7 @@ This Streamlit-based web application provides a comprehensive platform for real 
 
 - 📈 **Market Overview**: Price distributions, town comparisons, key metrics like median price and yearly growth  
 - 💸 **Price Estimations**: Predict property values with ML models (Random Forest, XGBoost, etc.)  
-- 📊 **Market Trends**: Analyze historical price trends, seasonal patterns, and sales volume  
+- 📊 **Market Trends**: Analyze historical price trends, seasonal patterns, and sales volume   
 - 🌍 **Geographic Analysis**: Interactive heatmaps and town-level pricing using Folium  
 - 🧠 **Model Performance**: Compare R², RMSE, and MAPE across multiple models  
 - 🧪 **Advanced Insights**: Correlation matrices, SHAP analysis, and raw data exploration  
